@@ -1,0 +1,15 @@
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\bin\Release\Discord Webhook Tool v2.exe.config
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\bin\Release\Discord Webhook Tool v2.exe
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\bin\Release\Discord Webhook Tool v2.pdb
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord Webhook Tool v2.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord Webhook Tool v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord_Webhook_Tool_v2.Form1.resources
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord_Webhook_Tool_v2.Properties.Resources.resources
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord Webhook Tool v2.csproj.GenerateResource.cache
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord Webhook Tool v2.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord Webhook Tool v2.csproj.CopyComplete
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord Webhook Tool v2.exe
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord Webhook Tool v2.pdb
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord_Webhook_Tool_v2.About.resources
+C:\Users\Yuuya\source\repos\Discord Webhook Tool v2\obj\Release\Discord_Webhook_Tool_v2.HowToUse.resources
